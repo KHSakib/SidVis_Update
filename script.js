@@ -422,6 +422,16 @@ const dataSet1 = [
     text: "just made this account to test of the site checks account creation date it does not ",
     deceptive_class: "0",
   },
+  {
+    id: "trial_lie_004.txt",
+    text: "going to the circuskinda bummed cuz i m missing a casino trip for this but hopefully it ll be fun",
+    deceptive_class: "0",
+  },
+  {
+    id: "trial_lie_005.txt",
+    text: "i didnt find one yet i just do not want to also i have a talent for being very bad at killing monsters i will die",
+    deceptive_class: "1",
+  },
 ];
 
 const dataSet2 = [
