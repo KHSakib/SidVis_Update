@@ -409,18 +409,18 @@ function convertStringToObjectArray(dataString) {
 const dataSet1 = [
   {
     id: "trial_lie_001.txt",
-    text: "No sir I did not. I absolutely did not. No sir I was not. No sir.",
+    text: "work slave i really feel like my only purpose in life is to make a higher man money parents forcing me through college and i have too much on my plate i owe a lot of money i know this is the easy way out but i am really tired all of these issues are on top of dealing with tensions in america as well i want to rest",
     deceptive_class: "1",
   },
   {
     id: "trial_lie_002.txt",
-    text: "and she approached me, and at that time...",
+    text: "i ll be dead just you wait and see my last words before my death for whoever is interestedi am sorry but youre better off without me youll learn to live without me ",
     deceptive_class: "1",
   },
   {
     id: "trial_lie_003.txt",
-    text: "No sir I was not, not at all.",
-    deceptive_class: "1",
+    text: "just made this account to test of the site checks account creation date it does not ",
+    deceptive_class: "0",
   },
 ];
 
