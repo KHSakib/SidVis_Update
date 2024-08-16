@@ -191,6 +191,11 @@ document.getElementById("generate_plot").addEventListener("click", () => {
 function plotData(inputData, visualData) {
   const plotTypes = ["bar", "line", "scatter", "pie", "doughnut"];
   const searchData = [
+    "Bar", 
+    "Line", 
+    "Scatter", 
+    "Pie", 
+    "Doughnut",
     "bar",
     "line",
     "scatter",
